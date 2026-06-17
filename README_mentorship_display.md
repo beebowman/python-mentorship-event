@@ -194,6 +194,7 @@ Exec=python3 /home/pi/mentorship/speed_mentorship_display.py
 - Python 3.7+
 - `pygame` — display engine
 - `numpy` — audio beep generation (optional but recommended)
+- Bluetooth speaker, EWA A106 Pro or equivalent
 
 ```bash
 pip3 install pygame numpy
